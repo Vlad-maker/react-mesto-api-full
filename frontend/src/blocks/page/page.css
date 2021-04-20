@@ -1,0 +1,10 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #000000;
+    max-width: 100%;
+    min-width: 320px;
+    min-height: 964px;
+}

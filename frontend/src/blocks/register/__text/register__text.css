@@ -1,0 +1,10 @@
+.register__text {
+text-rendering: optimizeLegibility;
+font-family: Inter, 'Arial', 'Helvetica';
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #FFFFFF;
+}

@@ -1,0 +1,5 @@
+.header__auth {
+    display: flex;
+    flex-direction: row;
+    margin: 6px 0 46px 0;
+}
