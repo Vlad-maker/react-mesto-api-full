@@ -102,7 +102,7 @@ class Api {
   }
 }
 const api = new Api({
-  url: "https://api.mesto.students.nomoredomains.club",
+  url: "https://mesto.nomoreparties.co/v1/cohort-19",
 });
 
 export default api;
