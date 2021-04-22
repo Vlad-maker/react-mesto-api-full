@@ -1,4 +1,4 @@
-export const BASE_URL = "https://mesto.nomoreparties.co/v1/cohort-19";
+export const BASE_URL = "https://api.mestop.nomoredomains.club";
 
 const authApi = (password, email, sign) => {
   return fetch(`${BASE_URL}/${sign}`, {
