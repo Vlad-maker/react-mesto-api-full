@@ -1,4 +1,4 @@
-export const BASE_URL = "https://api.mestop.nomoredomains.club";
+export const BASE_URL = "https://api.top.mestop.nomoredomains.club";
 
 const authApi = (password, email, sign) => {
   return fetch(`${BASE_URL}/${sign}`, {

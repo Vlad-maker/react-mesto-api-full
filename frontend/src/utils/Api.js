@@ -102,7 +102,7 @@ class Api {
   }
 }
 const api = new Api({
-  url: "https://api.mestop.nomoredomains.club",
+  url: "https://api.top.mestop.nomoredomains.club",
 });
 
 export default api;
