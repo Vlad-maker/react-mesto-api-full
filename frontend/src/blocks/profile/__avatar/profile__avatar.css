@@ -7,9 +7,10 @@
     border-radius: 50%;
     opacity: 0;
     outline: none;
+    overflow: hidden;
 }
 .profile__avatar:hover {
-    transition: opacity 0.5s linear;
+    transition: opacity 0.2s linear;
     opacity: 0.8;
     background: url("../../../images/edit.png");
     background-repeat: no-repeat;
